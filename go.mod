@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/jenkins-x/go-scm v1.13.13
+	github.com/jenkins-x/go-scm v1.14.5
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/opencontainers/image-spec v1.1.0-rc2
 	github.com/pkg/errors v0.9.1
@@ -25,15 +25,15 @@ require (
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20230307190834-24139beb5833
-	golang.org/x/oauth2 v0.7.0 // indirect
+	golang.org/x/oauth2 v0.8.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 	k8s.io/api v0.25.9
-	k8s.io/apimachinery v0.26.4
+	k8s.io/apimachinery v0.27.2
 	k8s.io/client-go v0.25.9
 	k8s.io/code-generator v0.25.9
 	k8s.io/klog v1.0.0
-	k8s.io/kube-openapi v0.0.0-20230308215209-15aac26d736a
+	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f
 	knative.dev/pkg v0.0.0-20230221145627-8efb3485adcf
 	sigs.k8s.io/yaml v1.3.0
 )
@@ -73,7 +73,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.20.10 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.14.8 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
@@ -185,17 +185,17 @@ require (
 	github.com/shurcooL/graphql v0.0.0-20181231061246-d48a9a75455f // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	github.com/vbatts/tar-split v0.11.2 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/automaxprocs v1.4.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/crypto v0.8.0 // indirect
 	golang.org/x/mod v0.9.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.7.0 // indirect
-	golang.org/x/term v0.7.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.7.0 // indirect
